@@ -1,0 +1,10 @@
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\NancyEvaluation.exe.config
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\NancyEvaluation.exe
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\NancyEvaluation.pdb
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\Nancy.dll
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\Nancy.xml
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\obj\Debug\NancyEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\obj\Debug\NancyEvaluation.exe
+C:\Users\Andy\Documents\GitHub\Nancy-Evaluation\NancyEvaluation\NancyEvaluation\obj\Debug\NancyEvaluation.pdb
